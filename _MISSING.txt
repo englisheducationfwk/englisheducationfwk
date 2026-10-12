@@ -1,7 +1,6 @@
-Чего нет в веб-архиве (собрано 2026-10-11)
+Чего нет в веб-архиве (собрано 2026-10-12)
 
 Статей без сохранённой страницы: 13
-Ещё в очереди на закачку (страницы не обработаны): 7
   - bali bomber — http://www.onestopenglish.com:80/news-lessons-bali-bomber/145607.article
   - news lessons — https://www.onestopenglish.com/news-lessons/153829.article
   - 17th august 2017 oslos car ban  and the backlash — https://www.onestopenglish.com/news-lessons/17th-august-2017-oslos-car-ban--and-the-backlash/556205.article
@@ -16,7 +15,7 @@
   - weekly news lesson 389 22nd may 2014 rwandan women whip up popular ice cream business — https://www.onestopenglish.com/news-lessons/weekly-news-lesson-389-22nd-may-2014-rwandan-women-whip-up-popular-ice-cream-business/553605.article
   - weekly topical news lessons — https://www.onestopenglish.com/news-lessons/weekly-topical-news-lessons/153772.article
 
-Файлы, которых нет в архиве или не скачались: 576
+Файлы, которых нет в архиве или не скачались: 580
   News Lessons/2026-06 - I was always the first to message friends. When I stopped I lost my entire:
     - 01 - Elementary Worksheet.pdf (ac=71272)
     - 02 - Elementary Teacher's Notes.pdf (ac=71271)
@@ -698,6 +697,10 @@
     - 02 - Teacher's Notes Intermediate.pdf (ac=66708)
     - 03 - Worksheet Advanced.pdf (ac=66710)
     - 04 - Teacher's Notes Advanced.pdf (ac=66709)
+  Business News Lessons/2022-09 - Business News Lessons Noise, well-being, everyday life and work:
+    - 02 - Teacher's Notes Intermediate.pdf (ac=66436)
+    - 03 - Worksheet Advanced.pdf (ac=66439)
+    - 04 - Teacher's Notes Advanced.pdf (ac=66438)
   News Lessons/2022-08 - Broken and distrusting why Americans are pulling away from the daily news:
     - 01 - Worksheet Elementary.pdf (ac=66349)
     - 05 - Worksheet Advanced.pdf (ac=66346)
@@ -708,3 +711,5 @@
     - 04 - Teacher's Notes Intermediate.pdf (ac=66314)
     - 05 - Teacher's Notes Advanced.pdf (ac=66315)
     - 06 - Worksheet Advanced.pdf (ac=66316)
+  News Lessons/2022-08 - The man who unwittingly became a meme:
+    - 01 - Worksheet Elementary.pdf (ac=66231)
